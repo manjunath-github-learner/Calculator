@@ -9,6 +9,7 @@ public class Add {
 
     public void methodDuck(){
         System.out.println("methodDuck");
+        System.out.println("methodDuck");
     }
 
     public void methodAnimal(){
