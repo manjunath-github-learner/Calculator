@@ -6,4 +6,8 @@ public class Sub {
     public void methodVihana(){
         System.out.println("methodVihana");
     }
+
+    public void hiRoopa(){
+
+    }
 }
