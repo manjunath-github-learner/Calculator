@@ -12,7 +12,7 @@ public class Add {
 
     public void methodDuck(){
         System.out.println("methodDuck");
-        System.out.println("methodDuck");
+        System.out.println("methodDucRRRRRRRRRRRRRRR");
     }
 
     public void methodAnimal(){
