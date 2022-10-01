@@ -12,6 +12,7 @@ public class Sub {
     }
 
     public void hiRoopa(){
+        System.out.println("hiRoopa");
         System.out.println("hiRoopaFromVihana");
     }
 }
