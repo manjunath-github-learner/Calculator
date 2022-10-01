@@ -6,4 +6,8 @@ public class Add {
     public void methodRoopa(){
         System.out.println("methodRoopa");
     }
+
+    public void methodAnimal(){
+        System.out.println("methodAnimal");
+    }
 }
