@@ -10,6 +10,10 @@ public class Add {
         System.out.println("methodRoopa");
     }
 
+    public void methodDuck(){
+        System.out.println("methodDuck");
+    }
+
     public void methodAnimal(){
         System.out.println("methodAnimal");
     }
