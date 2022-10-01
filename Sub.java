@@ -12,6 +12,6 @@ public class Sub {
     }
 
     public void hiRoopa(){
-
+        System.out.println("hiRoopaFromVihana");
     }
 }
