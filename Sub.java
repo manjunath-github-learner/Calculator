@@ -10,4 +10,8 @@ public class Sub {
     public void hiVihana(){
 
     }
+
+    public void hiRoopa(){
+
+    }
 }
